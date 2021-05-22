@@ -1,1 +1,1 @@
-# guru-trainings
+# Online-Training-template
